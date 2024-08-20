@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268903332117",
+    "project_id": "social-media-demo-36e34",
+    "storage_bucket": "social-media-demo-36e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268903332117:android:22fe3932f506b5d6e3111c",
+        "android_client_info": {
+          "package_name": "com.example.socialmediademo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPMEgJkG-k2zw_l6mcUt1_prh9zGhEnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
